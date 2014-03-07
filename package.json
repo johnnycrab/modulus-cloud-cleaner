@@ -1,0 +1,5 @@
+{
+	"name": "modulus-cloud-cleaner",
+	"version": "0.0.1",
+	"description": "A helper to clean the CLOUD_DIR of your modulus project."
+}
